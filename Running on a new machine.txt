@@ -1,0 +1,11 @@
+Install XAMPP
+Start XAMPP Control Panel 
+Start Apache 
+Start MySQL
+Open Browser enter http://localhost/phpmyadmin/
+Create Database "busapp"
+Select Database "busapp"
+Import busapp.sql
+Save "Bus-StApp" folder in "C:\xampp\htdocs"
+Open Browser enter http://localhost/Bus-StApp/ 
+
